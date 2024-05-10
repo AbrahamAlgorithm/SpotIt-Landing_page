@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SpotIt-Landing_page/static/css/main.541e5901.css",
+    "main.js": "/SpotIt-Landing_page/static/js/main.06bfc7c8.js",
+    "static/media/possibility.png": "/SpotIt-Landing_page/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/SpotIt-Landing_page/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/SpotIt-Landing_page/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/SpotIt-Landing_page/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/SpotIt-Landing_page/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/SpotIt-Landing_page/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/ai.png": "/SpotIt-Landing_page/static/media/ai.a26d6c60a1cf8b23ddf5.png",
+    "static/media/logo.svg": "/SpotIt-Landing_page/static/media/logo.efdc2f04677fcae1121d673fe438dc5a.svg",
+    "static/media/people.png": "/SpotIt-Landing_page/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/SpotIt-Landing_page/index.html",
+    "main.541e5901.css.map": "/SpotIt-Landing_page/static/css/main.541e5901.css.map",
+    "main.06bfc7c8.js.map": "/SpotIt-Landing_page/static/js/main.06bfc7c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.541e5901.css",
+    "static/js/main.06bfc7c8.js"
+  ]
+}
